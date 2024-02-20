@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vince! 
 
-<a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<a href="linkedIN link here">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
