@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vince! 
 
-<a href="linkedIN link here">Cybersecurity Professional</a>
+<a href="linkedIN link here">Cybersecurity & Sales Professional</a>
 
 <h2>👨🏻‍💻 Security Projects:</h2>
 
