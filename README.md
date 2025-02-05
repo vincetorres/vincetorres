@@ -20,6 +20,7 @@ I am a tech-driven professional with a background in sales, actively expanding m
 
 ### 📂 Featured Repositories 
 🔹 [**Linux-Hardening-Lab**](https://github.com/vincetorres/Linux-Hardening-Lab) – Security controls implementation and documentation.
+
 🔹 [**Wireshark Labs**](https://github.com/vincetorres/Wireshark-Labs) – My growing collection of network traffic analysis experiments.
 
 
