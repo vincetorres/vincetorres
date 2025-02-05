@@ -1,4 +1,4 @@
-# Hello, I'm Vince 🦾
+# Hello, I'm Vince !
 <a href="https://www.linkedin.com/in/vincetorres-tech/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🚀 About Me 
