@@ -5,8 +5,8 @@
 I am a tech-driven professional with a background in sales, actively expanding my cybersecurity expertise to bridge the gap between technical solutions and business needs.
 
 ### 🔥 What I'm Working On   
+- **Security Controls Implementation** – Testing and documenting firewall rules, IDS/IPS setups, and system hardening. 
 - **Linux Network Analysis** – Capturing, analyzing, and understanding network traffic for security monitoring.  
-- **Security Controls Implementation** – Testing and documenting firewall rules, IDS/IPS setups, and system hardening.  
 
 ### 📌 Key Skills & Interests  
 - **Network Security & Traffic Analysis** 
